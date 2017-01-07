@@ -26,6 +26,7 @@ baseUrl: http://username.github.io/project
 github:
     user: myself
     repo: my-project
+    url: github.com # This is the default, but you can specify your Github Enterprise url instead
 
 title: My project
 subTitle: This is a great project.
